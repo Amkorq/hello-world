@@ -1,4 +1,1 @@
-# hello-world
-Just another repository
-
-Hello, there!
+My test repository used just for studying.
